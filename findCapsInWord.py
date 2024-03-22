@@ -12,7 +12,6 @@ def capital_indexes(word: str):
             indexes.append(i)
     return indexes
 
-
 word = input('Please type a word: ')
 
 Caps = capital_letters(word)
